@@ -1,0 +1,6 @@
+console.log("Hello what are you doing")
+console.table({Name:"Vansh Singh",language:"Javascript"})
+console.assert(0>1,"Expression is failed")
+console.warn("This is warning")
+console.clear()
+console.error("This is a simple error")
